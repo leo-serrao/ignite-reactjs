@@ -18,7 +18,7 @@ export function App() {
 
   function handleCloseNewTransactionModal() {
     setIsNewTransacionModalOpen(false)
-  }
+  } 
 
 
   return (
